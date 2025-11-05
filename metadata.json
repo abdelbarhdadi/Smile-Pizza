@@ -1,0 +1,5 @@
+{
+  "name": "Smile Pizza",
+  "description": "A web application to browse the menu of Smile Pizza, including pizzas, calzones, salads, and more.",
+  "requestFramePermissions": []
+}
