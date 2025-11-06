@@ -15,10 +15,10 @@ const Header: React.FC = () => {
                 <LocationMarkerIcon className="w-5 h-5 mr-2" />
                 <span>Immeuble Tazerzit, tranche 2, hay mohamadi, Agadir</span>
             </div>
-            <div className="flex items-center justify-center text-sm sm:text-base">
+            <a href="tel:0666777473" className="flex items-center justify-center text-sm sm:text-base hover:underline">
                 <PhoneIcon className="w-5 h-5 mr-2" />
-                <span>05 25 15 50 35</span>
-            </div>
+                <span>06 66 77 74 73</span>
+            </a>
         </div>
       </div>
     </header>
